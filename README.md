@@ -3,7 +3,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/healenium/hlm-backend.svg?maxAge=25920)](https://hub.docker.com/u/healenium)
 [![License](https://img.shields.io/badge/license-Apache-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-Healenium with Robot-Framework usage example
+Healenium with SerenityBDD usage example
 
 [1. Start Healenium components](#1-start-healenium-components)
 * [Healenium with Selenium-Grid](#run-healenium-with-selenium-grid)
