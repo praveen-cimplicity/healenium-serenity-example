@@ -37,7 +37,7 @@ Verify the next images are <b>Up</b> and <b>Running</b>
 
 #### Run Healenium without Docker:
 
-Documanetation: https://healenium.io/docs/download_and_install/hlm_proxy
+Documentation link: https://healenium.io/docs/download_and_install/hlm_proxy
 
 ### 2. Configuration RemoteWebDriver
 
